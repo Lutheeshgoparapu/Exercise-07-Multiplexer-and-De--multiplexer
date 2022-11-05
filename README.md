@@ -128,12 +128,13 @@ endmodule
 
 ![170961671-289ba854-7adf-4cc3-a6cc-72f793da224c](https://user-images.githubusercontent.com/94154531/200104592-32059902-8a25-453d-84bf-f41d6f55c895.jpg)
 
-### TRUTH TABLE FOR 4 X 1 MULTIPLEXER
-![172907791-cc4361c9-c2b4-4aad-9234-b79f2ba9f0b2](https://user-images.githubusercontent.com/94154531/200104596-862f7942-63e8-44ba-9d0d-e51a4efd9d66.png)
-
 ### TIMING DIGRAMS  FOR 1 X 4 DE-MULTIPLEXER
 
 ![170961810-580463ac-4657-4c24-a9cc-863daad9f81b](https://user-images.githubusercontent.com/94154531/200104658-dc8256ba-60e4-4340-b5e6-d9678f19f450.png)
+
+### TRUTH TABLE FOR 4 X 1 MULTIPLEXER
+![172907791-cc4361c9-c2b4-4aad-9234-b79f2ba9f0b2](https://user-images.githubusercontent.com/94154531/200104596-862f7942-63e8-44ba-9d0d-e51a4efd9d66.png)
+
 ### TRUTH TABLE FOR 1 X 4 DE-MULTIPLEXER
 ![172907808-d304b038-fb7a-4e44-9fbf-f34dbd51ef59](https://user-images.githubusercontent.com/94154531/200104665-bea38a28-35db-4253-bb86-67e97888d410.png)
 
